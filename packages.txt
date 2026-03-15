@@ -1,2 +1,11 @@
 tesseract-ocr
 zlib1g-dev
+libjpeg62-turbo-dev
+libtiff-dev
+libfreetype6-dev
+liblcms2-dev
+libwebp-dev
+libopenjp2-7-dev
+build-essential
+gfortran
+libopenblas-dev
