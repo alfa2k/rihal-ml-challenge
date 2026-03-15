@@ -1,5 +1,9 @@
 # DocFusion - Intelligent Document Processing Pipeline
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rihal-ml-challenge-ahmedf.streamlit.app)
+
+**Live Demo:** [rihal-ml-challenge-ahmedf.streamlit.app](https://rihal-ml-challenge-ahmedf.streamlit.app)
+
 An end-to-end document processing system that extracts structured fields from scanned receipts, detects forged documents using ensemble machine learning, and exposes results via an interactive forensic analysis dashboard.
 
 ## Architecture
